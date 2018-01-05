@@ -41,6 +41,8 @@ Providers that host Copernicus Sentinel data and allow you to bring your own cod
   - public [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/gcp-public-data-sentinel-2/?pli=1), `.SAFE` format, EU region
 - [**Planet**](https://www.planet.com/pulse/sentinel-2-and-landsat-8-data-now-available-on-the-planet-platform/)
   - Sentinel-2 included in commercial API
+- [**RUS**](https://www.planet.com/pulse/sentinel-2-and-landsat-8-data-now-available-on-the-planet-platform/)
+  - Free access to a powerful computing environment for non-commercial activities. User support
 
 ## Tools
 Specific to Copernicus Sentinel data discovery, download and processing.
